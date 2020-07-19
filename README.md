@@ -1,6 +1,6 @@
-## Hi there! 👋
-
-Software Developer @Codeminer42.
+## Hi there! <img align="left" src="https://github.com/jeferson-sb/jeferson-sb/blob/master/Hi.gif" alt="waving hand" width="30px" />
+                                                                                           
+Software Developer [@Codeminer42](https://www.codeminer42.com/)
 
 <a href="https://www.linkedin.com/in/jeferson-sb/">
   <img align="left" alt="Jeferson's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,6 +11,9 @@ Software Developer @Codeminer42.
 <a href="https://www.linkedin.com/in/jeferson-sb/">
   <img align="left" alt="Jeferson's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dribbble.svg" />
 </a>
+  
+<br />
+<br />
 
 🎯 Someone who believes that perseverance, effort and determination leads to the best results.
 I am always focused on proving the best practices, fundamentals and consistency through out the code.
