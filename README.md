@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**jeferson-sb/jeferson-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer @Codeminer42.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/jeferson-sb/">
+  <img align="left" alt="Jeferson's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jeferson-sb/">
+  <img align="left" alt="Jeferson's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jeferson-sb/">
+  <img align="left" alt="Jeferson's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dribbble.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Someone who believes that perseverance, effort and determination leads to the best results.
+I am always focused on proving the best practices, fundamentals and consistency through out the code.
+
+"Perseverance is failing 19 times and succeeding the 20th" - Julie Andrews
+
+### Talking about Personal Stuffs:
+- 🔭 I’m currently working on Front-end
+- 🌱 I’m currently learning TypeScript, Unit Tests and Next.js
+- 👯 I’m looking to collaborate on Front-end Open Source Projects
+- ⚡ Fun fact: Soundtrack appreciator 🎶
+
+[![Jeferson's github stats](https://github-readme-stats.vercel.app/api?username=jeferson-sb)](https://github.com/jeferson-sb/github-readme-stats)
