@@ -22,7 +22,7 @@ I am always focused on proving the best practices, fundamentals and consistency 
 
 ### Talking about Personal Stuffs:
 - 🔭 I’m currently working on `Front-end`
-- 🌱 I’m currently learning `TypeScript, Unit Tests and Next.js`
+- 🌱 I’m currently learning `TypeScript, Unit Tests and Ruby on Rails`
 - 👯 I’m looking to collaborate on `Front-end Open Source Projects`
 - ⚡ Fun fact: Soundtrack appreciator 🎶
 
