@@ -26,4 +26,7 @@ I am always focused on proving the best practices, fundamentals and consistency 
 - 👯 I’m looking to collaborate on `Front-end Open Source Projects`
 - ⚡ Fun fact: Soundtrack appreciator 🎶
 
-[![Jeferson's github stats](https://github-readme-stats.vercel.app/api?username=jeferson-sb)](https://github.com/jeferson-sb/github-readme-stats)
+<a href="https://github.com/jeferson-sb">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeferson-sb&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeferson-sb&layout=compact&theme=vue-dark" />
+</a>
