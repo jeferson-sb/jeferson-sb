@@ -2,8 +2,6 @@
                                                                                            
 Software Developer Consultant [@Codeminer42](https://www.codeminer42.com/)
 
----
-
 <a href="https://www.linkedin.com/in/jeferson-sb/">
   <img align="left" alt="Jeferson's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,7 +12,8 @@ Software Developer Consultant [@Codeminer42](https://www.codeminer42.com/)
   <img align="left" alt="Jeferson's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dribbble.svg" />
 </a>
 
----
+<br />
+<br />
 
 - I’m currently working on `Front-end`
 - I’m currently learning `TypeScript, A11y and DDD`
