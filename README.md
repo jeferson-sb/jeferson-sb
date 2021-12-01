@@ -16,7 +16,7 @@ Software Developer Consultant [@Codeminer42](https://www.codeminer42.com/)
 <br />
 
 - I’m currently working on `Front-end`
-- I’m currently learning `TypeScript, A11y and DDD`
+- I’m currently learning `Elixir and Functional Programming`
 - I’m looking to collaborate on `Front-end Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
