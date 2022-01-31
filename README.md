@@ -20,6 +20,6 @@ Software Developer Consultant [@Codeminer42](https://www.codeminer42.com/)
 - I’m looking to collaborate on `Front-end Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeferson-sb&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeferson-sb&layout=compact&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeferson-sb&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeferson-sb&layout=compact&theme=vue-dark&langs_count=6&hide=java" />
 </a>
