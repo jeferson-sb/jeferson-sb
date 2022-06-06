@@ -1,4 +1,4 @@
-## Hi there! <img align="left" src="https://github.com/jeferson-sb/jeferson-sb/blob/master/Hi.gif" alt="waving hand" width="30px" />
+## Hi there! <img align="left" src="https://github.com/jeferson-sb/jeferson-sb/blob/master/Hi.gif" alt="waving hand" width="30" />
                                                                                            
 Software Developer Consultant [@Codeminer42](https://www.codeminer42.com/)
 
