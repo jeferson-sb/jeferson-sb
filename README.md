@@ -2,7 +2,7 @@
                                                                                            
 Software Developer Consultant [@Codeminer42](https://www.codeminer42.com/)
 
-⛏ Valuable code comes from hard-working craft
+_⛏ Valuable code comes from hard-working craft_
 
 <a href="https://www.linkedin.com/in/jeferson-sb/">
   <img align="left" alt="Jeferson's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
