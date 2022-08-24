@@ -18,7 +18,7 @@ _⛏ Valuable code comes from hard-working craft_
 <br />
 
 - I’m currently working on `Front-end`
-- I’m currently learning `Elixir and Functional Programming`
+- I’m currently learning `Elixir, React Native and Functional Programming`
 - I’m looking to collaborate on `Front-end Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
