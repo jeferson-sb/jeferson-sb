@@ -7,10 +7,10 @@ _⛏ Valuable code comes from hard-working craft_
 <a href="https://www.linkedin.com/in/jeferson-sb/">
   <img align="left" alt="Jeferson's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jeferson-sb/">
+<a href="https://dev.to/jeferson_sb">
   <img align="left" alt="Jeferson's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jeferson-sb/">
+<a href="https://dribbble.com/jeferson_sb">
   <img align="left" alt="Jeferson's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dribbble.svg" />
 </a>
 
