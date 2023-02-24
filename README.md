@@ -18,8 +18,8 @@ _⛏ Valuable code comes from hard-working craft_
 <br />
 
 - I’m currently working on `Front-end`
-- I’m currently learning `Elixir, React Native and Functional Programming`
-- I’m looking to collaborate on `Front-end Open Source Projects`
+- I’m currently learning `tRPC, Functional Programming`
+- I’m looking to collaborate on `Fullstack Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeferson-sb&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" />
