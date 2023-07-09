@@ -18,7 +18,7 @@ _⛏ Valuable code comes from hard-working craft_
 <br />
 
 - I’m currently working on `Front-end`
-- I’m currently learning `tRPC, Functional Programming`
+- I’m currently learning `Ruby on Rails`
 - I’m looking to collaborate on `Fullstack Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
