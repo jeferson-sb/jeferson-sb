@@ -10,15 +10,15 @@ _⛏ Valuable code comes from hard-working craft_
 <a href="https://dev.to/jeferson_sb">
   <img align="left" alt="Jeferson's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg" />
 </a>
-<a href="https://dribbble.com/jeferson_sb">
-  <img align="left" alt="Jeferson's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dribbble.svg" />
+<a href="https://exercism.org/profiles/jeferson-brito">
+  <img align="left" alt="Jeferson's Exercism" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/exercism.svg" />
 </a>
 
 <br />
 <br />
 
-- I’m currently working on `Front-end`
-- I’m currently learning `Ruby on Rails`
+- I’m currently working on `Front-end (Web/Mobile)`
+- I’m currently learning `Ruby on Rails` and `Rust`
 - I’m looking to collaborate on `Fullstack Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
