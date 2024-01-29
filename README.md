@@ -5,13 +5,13 @@ Software Developer Consultant [@Codeminer42](https://www.codeminer42.com/)
 _⛏ Valuable code comes from hard-working craft_
 
 <a href="https://www.linkedin.com/in/jeferson-sb/">
-  <img align="left" alt="Jeferson's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Jeferson's LinkedIn" width="22px" src="https://api.iconify.design/devicon:linkedin.svg" />
 </a>
 <a href="https://dev.to/jeferson_sb">
-  <img align="left" alt="Jeferson's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg" />
+  <img align="left" alt="Jeferson's Dev.to" width="22px" src="https://api.iconify.design/skill-icons:devto-dark.svg" />
 </a>
 <a href="https://exercism.org/profiles/jeferson-brito">
-  <img align="left" alt="Jeferson's Exercism" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/exercism.svg" />
+  <img align="left" alt="Jeferson's Exercism" width="22px" src="https://api.iconify.design/cib:exercism.svg" />
 </a>
 
 <br />
