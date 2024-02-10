@@ -18,7 +18,7 @@ _⛏ Valuable code comes from hard-working craft_
 <br />
 
 - I’m currently working on `Front-end (Web/Mobile)`
-- I’m currently learning `Ruby on Rails` and `Rust`
+- I’m currently learning `Rust`
 - I’m looking to collaborate on `Fullstack Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
