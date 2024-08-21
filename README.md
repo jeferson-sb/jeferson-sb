@@ -2,7 +2,11 @@
                                                                                            
 Software Developer Consultant [@Codeminer42](https://www.codeminer42.com/)
 
-_⛏ Valuable code comes from hard-working craft_
+🛠️ TypeScript, Elixir, Ruby, Rust, Lua and some other things... 
+
+_⛏ "Valuable code comes from hard-working craft"_
+
+Reach me at:
 
 <a href="https://www.linkedin.com/in/jeferson-sb/">
   <img align="left" alt="Jeferson's LinkedIn" width="22px" src="https://api.iconify.design/devicon:linkedin.svg" />
