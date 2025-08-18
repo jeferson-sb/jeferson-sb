@@ -22,7 +22,7 @@ Reach me at:
 <br />
 
 - I’m currently working on `Front-end (Web/Mobile)`
-- I’m currently learning `Rust`
+- I’m currently learning `SwiftUI`
 - I’m looking to collaborate on `Fullstack Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
