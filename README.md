@@ -26,6 +26,6 @@ Reach me at:
 - I’m looking to collaborate on `Fullstack Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeferson-sb&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeferson-sb&layout=donut&theme=vue-dark&langs_count=10&hide=java,php" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeferson-sb&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-sb&layout=compact&theme=vue-dark&langs_count=10&hide=java,php" />
 </a>
