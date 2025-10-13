@@ -29,7 +29,3 @@ Reach me at:
   <img src="https://github-readme-stats.vercel.app/api?username=jeferson-sb&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-sb&layout=compact&theme=vue-dark&langs_count=10&hide=java,php" />
 </a>
-
-<a href="https://www.hitwebcounter.com/" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=21448203&style=0024&nbdigits=5&type=ip&initCount=0" title="Counters" Alt="Counters"   border="0" />
-</a>            
