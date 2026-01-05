@@ -1,7 +1,5 @@
 ## Hi there! <img align="left" src="https://github.com/jeferson-sb/jeferson-sb/blob/master/Hi.gif" alt="waving hand" width="30" />
                                                                                            
-Software Developer Consultant [@Codeminer42](https://www.codeminer42.com/)
-
 🛠️ TypeScript, Elixir, Ruby, Rust, Lua and some other things... 
 
 _⛏ "Valuable code comes from hard-working craft"_
@@ -22,7 +20,7 @@ Reach me at:
 <br />
 
 - I’m currently working on `Front-end (Web/Mobile)`
-- I’m currently learning `SwiftUI`
+- I’m currently learning `Deep-dive on web performance`
 - I’m looking to collaborate on `Fullstack Open Source Projects`
 
 <a href="https://github.com/jeferson-sb">
