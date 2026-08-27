@@ -7,6 +7,7 @@ Reach me at:
  <a href="https://www.linkedin.com/in/jeferson-sb/">
   <img align="left" alt="Jeferson's LinkedIn" width="22px" src="https://api.iconify.design/devicon:linkedin.svg" />
 </a>
+<br>
 
 - I’m currently working on `Front-end (Web/Mobile)`
 - I’m currently learning `Deep-dive on web performance`
