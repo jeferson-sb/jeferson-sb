@@ -1,9 +1,8 @@
 ## Hi there! <img align="left" src="https://github.com/jeferson-sb/jeferson-sb/blob/master/Hi.gif" alt="waving hand" width="30" />
-                                                                                           
-🛠️ TypeScript, Elixir, Ruby, Rust, Lua and some other things... 
 
-_⛏ "Valuable code comes from hard-working craft"_
+Ask me about UI elaboration, creating interactive expirences, a11y, TypeScript, Elixir, Ruby on Rails, Lua or anything in the middle
 
+                                                                        
 Reach me at:
 
 <a href="https://www.linkedin.com/in/jeferson-sb/">
