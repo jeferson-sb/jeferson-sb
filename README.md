@@ -1,6 +1,6 @@
 ## Hi there! <img align="left" src="https://github.com/jeferson-sb/jeferson-sb/blob/master/Hi.gif" alt="waving hand" width="30" />
 
-Ask me about UI elaboration, creating interactive expirences, a11y, TypeScript, Elixir, Ruby on Rails, Lua or anything in the middle
+Ask me about UI elaboration, creating interactive expirences, JS frameworks, a11y, TypeScript, Elixir, Ruby on Rails, Lua or anything in the middle
 
                                                                         
 Reach me at:
