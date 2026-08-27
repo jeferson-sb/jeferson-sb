@@ -1,9 +1,8 @@
 ## Hi there! <img align="left" src="https://github.com/jeferson-sb/jeferson-sb/blob/master/Hi.gif" alt="waving hand" width="30" />
 
-Ask me about UI elaboration, creating interactive experiences, JS frameworks, a11y, TypeScript, Elixir, Ruby on Rails, Lua or anything in the middle
-
-                                                                        
-Reach me at
+Ask me about UI elaboration, creating interactive experiences, JS frameworks, a11y, TypeScript, Elixir, Ruby on Rails, Lua or anything in the middle.
+                          
+Reach me at:
 
  <a href="https://www.linkedin.com/in/jeferson-sb/">
   <img align="left" alt="Jeferson's LinkedIn" width="22px" src="https://api.iconify.design/devicon:linkedin.svg" />
